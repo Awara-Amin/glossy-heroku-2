@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/glossy-code-link-1/static/css/main.1100cf6e.css",
+    "main.js": "/glossy-code-link-1/static/js/main.340c4c18.js",
+    "static/js/787.a888569e.chunk.js": "/glossy-code-link-1/static/js/787.a888569e.chunk.js",
+    "static/media/project_backgroundPage.jpeg": "/glossy-code-link-1/static/media/project_backgroundPage.f064b9fb6ebb69830423.jpeg",
+    "static/media/about_backgroundPage.webp": "/glossy-code-link-1/static/media/about_backgroundPage.b70181d353ab0332a461.webp",
+    "static/media/home_BackgroundPage.jpeg": "/glossy-code-link-1/static/media/home_BackgroundPage.be92166199b5382dfd2d.jpeg",
+    "static/media/contactBackground.jpeg": "/glossy-code-link-1/static/media/contactBackground.b8beaa9ab756bb45d547.jpeg",
+    "static/media/contact_BackgroundPage.jpeg": "/glossy-code-link-1/static/media/contact_BackgroundPage.b8beaa9ab756bb45d547.jpeg",
+    "static/media/background2.jpeg": "/glossy-code-link-1/static/media/background2.74734155c3db883b8e63.jpeg",
+    "static/media/spinner.gif": "/glossy-code-link-1/static/media/spinner.d218b2b117babcb3ccb4.gif",
+    "static/media/logoSm.png": "/glossy-code-link-1/static/media/logoSm.bf12e058df0317d12723.png",
+    "index.html": "/glossy-code-link-1/index.html",
+    "main.1100cf6e.css.map": "/glossy-code-link-1/static/css/main.1100cf6e.css.map",
+    "main.340c4c18.js.map": "/glossy-code-link-1/static/js/main.340c4c18.js.map",
+    "787.a888569e.chunk.js.map": "/glossy-code-link-1/static/js/787.a888569e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1100cf6e.css",
+    "static/js/main.340c4c18.js"
+  ]
+}
